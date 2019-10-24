@@ -1,6 +1,9 @@
 # InspiringApps
 JavaScript challenge for InspiringApps logo
 
+Deployed link:
+https://inspiringapplogo.netlify.com
+
 The purpose of the challenge is to get the color dots to be at the right position to the InspiringApp's logo.
 First, I created the simple html page with bootstrap element 
 Second, I started working on the index.js tried to get the logo, color dot images to be showing at logo and dots
