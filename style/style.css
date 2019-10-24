@@ -1,0 +1,24 @@
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+.background {
+    background-image: linear-gradient(white, #a591df);
+    width: 100%;
+    height:100%;
+}
+#messageList {
+    list-style-type: square;
+    overflow-y: scroll;
+    max-height: 40vh;
+}
+.whitebar {
+    border: 2px solid white;
+}
+
+.scrollbox {
+    overflow-y: auto;
+}
+
